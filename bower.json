@@ -1,0 +1,28 @@
+{
+  "name": "polymer-kit",
+  "authors": [
+    "faso faso@github"
+  ],
+  "description": "A package that installs base Polymer dependencies",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "polymer",
+    "elements"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/faso/Polymer-Kit",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "^1.4.0",
+    "paper-elements": "^1.0.7",
+    "iron-elements": "^1.0.10",
+    "webcomponentsjs": "^0.7.22"
+  }
+}
